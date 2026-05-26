@@ -16,7 +16,7 @@ Read the full project write-up on Kaggle:
 
 ## Dashboard Preview
 
-![Smart Irrigation Dashboard](stream-list-dashboard.png)
+![Smart Irrigation Dashboard](stream-lit-dashboard.png)
 
 ## Overview
 
