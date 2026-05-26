@@ -10,7 +10,7 @@ Try the deployed Smart Irrigation AI dashboard on Hugging Face Spaces:
 
 ## Dashboard Preview
 
-![Smart Irrigation Dashboard](dashboard-preview.png)
+![Smart Irrigation Dashboard](stream-list-dashboard.png)
 
 ## Overview
 
