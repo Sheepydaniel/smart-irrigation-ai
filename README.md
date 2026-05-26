@@ -8,9 +8,15 @@ Try the deployed Smart Irrigation AI dashboard on Hugging Face Spaces:
 
 [Smart Irrigation AI Dashboard](https://huggingface.co/spaces/Sheepydaniel/smart-irrigation-ai-v2)
 
+## Project Write-up
+
+Read the full project write-up on Kaggle:
+
+[Smart Irrigation AI Write-up](https://www.kaggle.com/writeups/shauryajat/smart-irrigation-ai-machine-learning-for-precisio)
+
 ## Dashboard Preview
 
-![Smart Irrigation Dashboard](stream-lit-dashboard.png)
+![Smart Irrigation Dashboard](stream-list-dashboard.png)
 
 ## Overview
 
@@ -33,7 +39,7 @@ This project has three main parts:
 | Platform | Purpose |
 |---|---|
 | Kaggle | Notebook-based model exploration, feature engineering, and evaluation |
-| GitHub | Project documentation, code, and portfolio repository |
+| GitHub | Project documentation, code, screenshots, and portfolio repository |
 | Hugging Face Spaces | Deployed interactive Streamlit dashboard |
 
 ## Dashboard Features
