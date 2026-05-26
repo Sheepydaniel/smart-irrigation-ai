@@ -8,6 +8,10 @@ Try the deployed Smart Irrigation AI dashboard on Hugging Face Spaces:
 
 [Smart Irrigation AI Dashboard](https://huggingface.co/spaces/Sheepydaniel/smart-irrigation-ai-v2)
 
+## Dashboard Preview
+
+![Smart Irrigation Dashboard](dashboard-preview.png)
+
 ## Overview
 
 This project explores how machine learning can support smarter irrigation decisions and sustainable agriculture.
